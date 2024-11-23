@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Administracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ATS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Auxiliares.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Celadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Consultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Paciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sustituciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VACAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VACATS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VACATSZona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VACAuxiliar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VACMedicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
